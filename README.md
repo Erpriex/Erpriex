@@ -1,6 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=Erpriex&color=blueviolet" alt="Profile views" align="right" />
 <h1 align="center">Hello 👋, moi c'est Clément !</h1>
 
+<div align="center">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Erpriex&data=followers,repositories,commits&theme=darkmode" alt="GitHub WidgetBox">
+</div>
+
 ### 🎯 À Propos
 Développeur Full Stack passionné par la création d’applications web et mobiles, je mets la <b>qualité du code</b> et la <b>vision produit</b> au cœur de mes projets.</br>
 De l’interface utilisateur à l’infrastructure, j’aime aborder le développement avec une approche technique globale.
@@ -24,7 +28,7 @@ De l’interface utilisateur à l’infrastructure, j’aime aborder le dévelop
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
