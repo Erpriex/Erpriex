@@ -42,6 +42,6 @@ De l’interface utilisateur à l’infrastructure, j’aime aborder le dévelop
 <div align="center">
   
  💭 <i>"Les détails ne sont pas des détails. Ils font la conception."</i> - Charles Eames<br/>
- 🤖 <i>"L’avenir appartient à ceux qui savent le compiler."</i> - Généré par IA.
+ 🤖 <i>"Si tout marche du premier coup, c’est louche."</i> - Généré par IA
  
 </div>
