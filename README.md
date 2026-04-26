@@ -1,10 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=Erpriex&color=blueviolet" alt="Profile views" align="right" />
 <h1 align="center">Hello 👋, moi c'est Clément !</h1>
 
-<div align="center">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=Erpriex&data=followers,repositories,commits&theme=darkmode" alt="GitHub WidgetBox">
-</div>
-
 ### 🎯 À Propos
 Développeur Full Stack passionné par la création d’applications web et mobiles, je mets la <b>qualité du code</b> et la <b>vision produit</b> au cœur de mes projets.</br>
 De l’interface utilisateur à l’infrastructure, j’aime aborder le développement avec une approche technique globale.
