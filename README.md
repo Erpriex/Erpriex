@@ -51,6 +51,6 @@ Je m’intéresse autant à l’expérience utilisateur qu’à l’architecture
 <div align="center">
   
 💭 <i>"Les détails ne sont pas des détails. Ils font la conception."</i> - Charles Eames  
-🤖 <i>"Si tout marche du premier coup, c’est louche."</i>
+🤖 <i>"Le hasard est un excellent testeur"</i> - Généré par IA
  
 </div>
